@@ -1,4 +1,4 @@
-# Manual Técnico - MRU
+# Manual Técnico - CalMRU
 
 ## Introducción
 CalMRU es una calculadora que busca brinda ayuda al resolver problemas de física fundamental. <br>
