@@ -47,7 +47,7 @@ CalMRU consta de 2 componentes principales:
 ## Captura de Pantalla y Descripcion
 
 <div style="text-align: center;">
-    <img src="https://calculadorasonline.com/wp-content/uploads/2020/11/Calculadora-movimiento-rectilineouniformemente-acelerado.jpg" alt="Interfaz">
+    <img src="https://calculadorasonline.com/wp-content/uploads/2020/11/Calculadora-movimiento-rectilineo-uniformemente-acelerado.jpg" alt="Interfaz">
     <br>
     <strong>Imagen:</strong> Ejemplo de Interfaz Gráfica
 </div>
