@@ -4,6 +4,14 @@
 CalMRU es una calculadora que busca brinda ayuda al resolver problemas de física fundamental. <br>
 En este manual técnico encontrará información detallada sobre la arquitectura, tecnologías y configuraciones necesarias para implementar la calculadora.
 
+## Objetivo General
+Aplicar conceptos clave de la física en la programación, demostrando la automatización de tareas diarias.
+
+## Objetivo Especifíco
+Facilitar el aprendizaje y resolución de problemas de física. Aplicando conceptos básicos de la programación orientada a objetos (POO).
+
+## Descripción del Software
+
 ## Arquitectura del Sistema
 CalMRU consta de 2 componentes principales:
 1. **Lógica**: Desarrollado en Kotlin.
@@ -39,8 +47,22 @@ CalMRU consta de 2 componentes principales:
 ## Captura de Pantalla y Descripcion
 
 <div style="text-align: center;">
-    <img src="[https://github.com/davco0720/Starlight/blob/main/Documentaci%C3%B3n%20y%20ayuda/img_tec/packbd.png](https://calculadorasonline.com/wp-content/uploads/2020/11/Calculadora-movimiento-rectilineouniformemente-acelerado.jpg)" alt="Interfaz">
+    <img src="https://calculadorasonline.com/wp-content/uploads/2020/11/Calculadora-movimiento-rectilineouniformemente-acelerado.jpg" alt="Interfaz">
     <br>
     <strong>Imagen:</strong> Ejemplo de Interfaz Gráfica
+</div>
+<br><br>
+
+
+## Flujo del sistema
+1. Ingreso de datos en la app.
+2. Manejo de los datos a través de fórmulas básicas.
+3. Obtención de resultado.
+
+## Captura de pantalla de flujo
+<div style="text-align: center;">
+    <img src= "https://libros.catedu.es/uploads/images/gallery/2022-11/flowcharts-computational-thinking-presentaciones-de-google-2.png" alt="Conexion">
+    <br>
+    <strong>Imagen:</strong> Conexion
 </div>
 <br><br>
